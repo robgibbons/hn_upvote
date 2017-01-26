@@ -1,2 +1,2 @@
 # hn_upvote
-Automatically upvote downvoted comments on Hacker News
+A Userscript to automatically upvote downvoted comments on Hacker News
